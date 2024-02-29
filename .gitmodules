@@ -1,0 +1,3 @@
+[submodule "MERN-todo-react"]
+	path = MERN-todo-react
+	url = https://github.com/Haashir-Shakeel/MERN-todo-react.git
